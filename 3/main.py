@@ -84,5 +84,5 @@ class Solution:
 
 if __name__ == "__main__":
     sol = Solution()
-    # print("Pt. 1 ans: " + sol.sum_part_number())
+    print("Pt. 1 ans: " + str(sol.sum_part_number()))
     print("Pt. 2 ans: " + str(sol.sum_gear_ratios()))
