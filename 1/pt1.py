@@ -1,7 +1,7 @@
 # advent of code 2023 day 1
 from typing import Callable, Iterable
 
-INPUT = "input.txt"
+INPUT = "1/input.txt"
 
 def sum_calibration_values() -> int:
     with open(INPUT, "r") as f:
